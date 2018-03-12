@@ -1,0 +1,27 @@
+D:\C# Project\BaiTapThemXoaSua\BaiTapThemXoaSua\bin\Debug\BaiTapThemXoaSua.exe.config
+D:\C# Project\BaiTapThemXoaSua\BaiTapThemXoaSua\bin\Debug\BaiTapThemXoaSua.exe
+D:\C# Project\BaiTapThemXoaSua\BaiTapThemXoaSua\bin\Debug\BaiTapThemXoaSua.pdb
+D:\C# Project\BaiTapThemXoaSua\BaiTapThemXoaSua\obj\Debug\BaiTapThemXoaSua.Form1.resources
+D:\C# Project\BaiTapThemXoaSua\BaiTapThemXoaSua\obj\Debug\BaiTapThemXoaSua.Properties.Resources.resources
+D:\C# Project\BaiTapThemXoaSua\BaiTapThemXoaSua\obj\Debug\BaiTapThemXoaSua.csproj.GenerateResource.Cache
+D:\C# Project\BaiTapThemXoaSua\BaiTapThemXoaSua\obj\Debug\BaiTapThemXoaSua.exe
+D:\C# Project\BaiTapThemXoaSua\BaiTapThemXoaSua\obj\Debug\BaiTapThemXoaSua.pdb
+D:\C# Project\BaiTapThemXoaSua\BaiTapThemXoaSua\obj\Debug\BaiTapThemXoaSua.csprojResolveAssemblyReference.cache
+C:\Users\Cuong\Desktop\BaiTapThemXoaSua\BaiTapThemXoaSua\BaiTapThemXoaSua\bin\Debug\BaiTapThemXoaSua.exe.config
+C:\Users\Cuong\Desktop\BaiTapThemXoaSua\BaiTapThemXoaSua\BaiTapThemXoaSua\obj\Debug\BaiTapThemXoaSua.exe
+C:\Users\Cuong\Desktop\BaiTapThemXoaSua\BaiTapThemXoaSua\BaiTapThemXoaSua\obj\Debug\BaiTapThemXoaSua.pdb
+C:\Users\Cuong\Desktop\BaiTapThemXoaSua\BaiTapThemXoaSua\BaiTapThemXoaSua\bin\Debug\BaiTapThemXoaSua.exe
+C:\Users\Cuong\Desktop\BaiTapThemXoaSua\BaiTapThemXoaSua\BaiTapThemXoaSua\bin\Debug\BaiTapThemXoaSua.pdb
+C:\Users\Cuong\Desktop\BaiTapThemXoaSua\BaiTapThemXoaSua\BaiTapThemXoaSua\obj\Debug\BaiTapThemXoaSua.csprojResolveAssemblyReference.cache
+C:\Users\Cuong\Desktop\BaiTapThemXoaSua\BaiTapThemXoaSua\BaiTapThemXoaSua\obj\Debug\BaiTapThemXoaSua.Form1.resources
+C:\Users\Cuong\Desktop\BaiTapThemXoaSua\BaiTapThemXoaSua\BaiTapThemXoaSua\obj\Debug\BaiTapThemXoaSua.Properties.Resources.resources
+C:\Users\Cuong\Desktop\BaiTapThemXoaSua\BaiTapThemXoaSua\BaiTapThemXoaSua\obj\Debug\BaiTapThemXoaSua.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\BaiTapThemXoaSua\BaiTapThemXoaSua\BaiTapThemXoaSua\bin\Debug\BaiTapThemXoaSua.exe.config
+C:\Users\User\Downloads\BaiTapThemXoaSua\BaiTapThemXoaSua\BaiTapThemXoaSua\obj\Debug\BaiTapThemXoaSua.exe
+C:\Users\User\Downloads\BaiTapThemXoaSua\BaiTapThemXoaSua\BaiTapThemXoaSua\obj\Debug\BaiTapThemXoaSua.pdb
+C:\Users\User\Downloads\BaiTapThemXoaSua\BaiTapThemXoaSua\BaiTapThemXoaSua\bin\Debug\BaiTapThemXoaSua.exe
+C:\Users\User\Downloads\BaiTapThemXoaSua\BaiTapThemXoaSua\BaiTapThemXoaSua\bin\Debug\BaiTapThemXoaSua.pdb
+C:\Users\User\Downloads\BaiTapThemXoaSua\BaiTapThemXoaSua\BaiTapThemXoaSua\obj\Debug\BaiTapThemXoaSua.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\BaiTapThemXoaSua\BaiTapThemXoaSua\BaiTapThemXoaSua\obj\Debug\BaiTapThemXoaSua.Form1.resources
+C:\Users\User\Downloads\BaiTapThemXoaSua\BaiTapThemXoaSua\BaiTapThemXoaSua\obj\Debug\BaiTapThemXoaSua.Properties.Resources.resources
+C:\Users\User\Downloads\BaiTapThemXoaSua\BaiTapThemXoaSua\BaiTapThemXoaSua\obj\Debug\BaiTapThemXoaSua.csproj.GenerateResource.Cache
