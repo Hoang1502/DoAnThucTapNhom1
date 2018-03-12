@@ -25,3 +25,6 @@ C:\Users\User\Downloads\BaiTapThemXoaSua\BaiTapThemXoaSua\BaiTapThemXoaSua\obj\D
 C:\Users\User\Downloads\BaiTapThemXoaSua\BaiTapThemXoaSua\BaiTapThemXoaSua\obj\Debug\BaiTapThemXoaSua.Form1.resources
 C:\Users\User\Downloads\BaiTapThemXoaSua\BaiTapThemXoaSua\BaiTapThemXoaSua\obj\Debug\BaiTapThemXoaSua.Properties.Resources.resources
 C:\Users\User\Downloads\BaiTapThemXoaSua\BaiTapThemXoaSua\BaiTapThemXoaSua\obj\Debug\BaiTapThemXoaSua.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\baitapnhom\BaiTapThemXoaSua\BaiTapThemXoaSua\BaiTapThemXoaSua\bin\Debug\BaiTapThemXoaSua.exe.config
+C:\Users\User\Desktop\baitapnhom\BaiTapThemXoaSua\BaiTapThemXoaSua\BaiTapThemXoaSua\obj\Debug\BaiTapThemXoaSua.exe
+C:\Users\User\Desktop\baitapnhom\BaiTapThemXoaSua\BaiTapThemXoaSua\BaiTapThemXoaSua\obj\Debug\BaiTapThemXoaSua.pdb

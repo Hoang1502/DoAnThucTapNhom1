@@ -1730,5 +1730,10 @@ namespace BaiTapThemXoaSua
                 }
             }
         }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+            //hoang
+        }
     }
 }
